@@ -1,2 +1,2 @@
 # js
-İleri Programlama Typescript 
+İleri Programlama Typescript Çalışması
